@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm EL_Kotziii</h1>
-<h3 align="center">Hey, Im EL_Kotziii (Marius) a 17 year old gamer with a passion for technology. I also like to play Video Games with my Friends!</h3>
 
 <h2 align="left">Current Projects:</h2>
-- 🔭 I am currently working on <massive>an large Discord BOT.</massive>
+- 🤖 currently working on <massive>an discord music bot.</massive>
 
 <h2 align="left">Connect with me:</h2>
 
