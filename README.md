@@ -21,7 +21,7 @@
 
 ## 🔥 Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EL-Kotziii&theme=dracula&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EL-Kotziii&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
