@@ -19,12 +19,11 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=EL-Kotziii&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+## 🔥 Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EL-Kotziii&theme=dracula&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 
 ---
 
-## 🔥 Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EL-Kotziii&theme=dracula&hide_border=true&border_radius=3)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EL-Kotziii&theme=dracula&hide_border=true&border_radius=3)](https://git.io/streak-stats)
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=EL-Kotziii&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
