@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **discord bots**
+ 🔭 I’m currently working on **Discord Bots**
  
  🌱 I’m currently learning **TypeScript, Docker**
  
