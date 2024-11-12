@@ -1,8 +1,3 @@
-<h1 align="center">
-    <div align="center">
-    <a align="center" href="https://discord.com/users/527814101343404053/"><img align="center" src="https://discord.c99.nl/widget/theme-4/527814101343404053.png"></a>
-</div>
-
 </h1>
 <h3 align="center">A hobby developer from Germany</h3>
 
